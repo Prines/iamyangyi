@@ -62,3 +62,4 @@ if __name__=='__main__':
     url_open(aimurl)
     GetTitle()
     show()
+    
